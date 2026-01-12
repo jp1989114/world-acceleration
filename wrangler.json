@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "world-acceleration",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "24eb2d42-c560-4aef-a039-fbff4f0981d6",
+			"database_name": "d1-world-acc-database"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
